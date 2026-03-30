@@ -129,7 +129,7 @@ oss-audit-24BAI10913/
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/tiwarimadhavendra8-web/oss-audit-24BAI10893
+git clone https://github.com/soumendra24bai10913/oss-audit-24BAI10913
 cd oss-audit-24BAI10913
 ```
 
